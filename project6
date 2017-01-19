@@ -3,15 +3,23 @@
 <html>
 
 <head>
-	<title>My First Web Page</title>
+	<title>My First CSS</title>
+	
+<link rel="stylesheet" href="styles.css">
+
 </head>
 
 
 <body>
-
+  <style> 
+  h1 { 
+   color: red;
+   text-align: center; 
+   }
+   </style> 
   <h1>Hello World!</h1>
 
-
+ 
 	<h2>A place I would like to visit</h2>
 	
 	 <!--Mention rich ulture and artistic pieces located in Paris--> 
