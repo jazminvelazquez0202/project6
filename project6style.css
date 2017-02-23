@@ -3,10 +3,11 @@ h1 {text-align: center;
   color: red;}
 
 h2 {text-align: center;}
- u {text-decoration: underline;}
+  text-decoration: underline;}
 
-p {color: green;
-      font-family:tahoma;} 
+p {
+  color: green;
+  font-family:Tahoma;} 
 
 
 ul { 
@@ -15,5 +16,5 @@ ul {
 
 ol { 
    font-weight: bold;
-   font-size:1.6em;
+   font-size: 1.6em;
 } 
